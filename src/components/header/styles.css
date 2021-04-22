@@ -1,0 +1,20 @@
+#top-menu {
+  background: black;
+  position: fixed;
+  width: 100%;
+}
+
+#logo {
+  width: 13%;
+  padding-left: 40px;
+}
+
+#top-menu .nav-item{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+
+#top-menu .nav-item a:hover{
+  color: #1ed760
+}
