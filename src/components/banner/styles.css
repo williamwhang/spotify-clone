@@ -1,0 +1,18 @@
+#banner {
+  background-color: rgb(41, 65, 171);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#banner h1 {
+  color: #1ed760;
+  font-weight: bold;
+  font-size: 140px;
+  line-height: 166px;
+}
+
+#banner p {
+  color: #1ed760;
+}

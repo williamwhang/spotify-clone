@@ -1,0 +1,13 @@
+#botao {
+    border-radius: 50px;
+    padding: 14px 32px;
+    border: none;
+}
+
+.sucesso {
+  background-color: #1ed760;
+  color: rgb(41, 65, 171);
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}

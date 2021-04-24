@@ -1,10 +1,10 @@
 import Header from "./components/header";
-
-export default function app() {
+import Banner from "./components/banner";
+export default function App() {
   return (
     <div>
       <Header />
-      <section>conteudo</section>
+      <Banner />
     </div>
   );
 }

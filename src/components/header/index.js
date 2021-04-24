@@ -1,5 +1,4 @@
 import "./styles.css";
-
 import Logo from "../../assets/images/logo.png";
 
 export default function Header() {
@@ -37,12 +36,7 @@ export default function Header() {
                 </a>
               </li>
               <li className="nav-item">
-                <a
-                  className="nav-link disabled"
-                  href="#"
-                  tabindex="-1"
-                  aria-disabled="true"
-                >
+                <a className="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">
                   |
                 </a>
               </li>
